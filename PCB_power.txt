@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : C:\Users\nickb\Documents\GitHub\PorTeL-Beacon\PCB_power.PcbDoc
+Date         : 11/11/2021
+Time         : 12:45:17 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3346.457milsx2204.725mils
+    Components on board, 140
+count : 2
+
+Routing Information
+    Routing completion, 97.55%
+    Connections, 368
+    Connections routed, 359
+    Connections remaining, 9
+count : 4
