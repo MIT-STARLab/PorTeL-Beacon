@@ -301,16 +301,16 @@ DocumentPath=Project Outputs for PorTeL_beacon_board\Design Rule Check - PCB_pow
 DItemRevisionGUID=
 
 [Parameter1]
-Name=drawnby
-Value=Nicholas Belsten
+Name=title
+Value=PorTel-Beacon
 
 [Parameter2]
 Name=Revision
-Value=V2.0
+Value=V2.1
 
 [Parameter3]
-Name=title
-Value=PorTel-Beacon
+Name=drawnby
+Value=Nicholas Belsten
 
 [Configuration1]
 Name=Sources
@@ -349,7 +349,7 @@ SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangl
 SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=0
-SCH_VariantName=[No Variations]
+SCH_VariantName=Populated Components
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0
@@ -472,7 +472,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=BRN30055CF258FB
+TargetPrinter=HP Universal Printing PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
