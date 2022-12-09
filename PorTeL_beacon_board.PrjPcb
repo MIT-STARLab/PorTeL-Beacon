@@ -292,8 +292,14 @@ UniqueID=EA120737-2451-42C9-BCA2-4A3540BB9934
 Description=Populated Components
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
+VariationCount=7
 Variation1=Designator=R17|UniqueId=\OWDVDSPK\NZGEKHCI|Kind=1|AlternatePart= 
+Variation2=Designator=C4|UniqueId=\ZDIGQLRJ\SCBMWZRM|Kind=1|AlternatePart= 
+Variation3=Designator=R43|UniqueId=\ZDIGQLRJ\SVPOVPZK|Kind=1|AlternatePart= 
+Variation4=Designator=R44|UniqueId=\ZDIGQLRJ\FBJMVIEJ|Kind=1|AlternatePart= 
+Variation5=Designator=C5|UniqueId=\ZDIGQLRJ\FJLKGLTR|Kind=1|AlternatePart= 
+Variation6=Designator=C6|UniqueId=\ZDIGQLRJ\WRLICNHG|Kind=1|AlternatePart= 
+Variation7=Designator=R45|UniqueId=\ZDIGQLRJ\NFBOCHTZ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -301,16 +307,16 @@ DocumentPath=Project Outputs for PorTeL_beacon_board\Design Rule Check - PCB_pow
 DItemRevisionGUID=
 
 [Parameter1]
-Name=title
-Value=PorTel-Beacon
+Name=drawnby
+Value=Nicholas Belsten
 
 [Parameter2]
 Name=Revision
 Value=V2.1
 
 [Parameter3]
-Name=drawnby
-Value=Nicholas Belsten
+Name=title
+Value=PorTel-Beacon
 
 [Configuration1]
 Name=Sources
@@ -472,7 +478,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Universal Printing PCL 6
+TargetPrinter=Brother HL-L2395DW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
