@@ -12,6 +12,7 @@
 *.log
 *.htm
 *.$$$
+*.zip
 
 # Generated output files
 Project\ Outputs*/
